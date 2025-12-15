@@ -6,4 +6,3 @@ abstract final class AppColor {
   static const Color black = Colors.black;
   static const Color white = Colors.white;
 }
-//test merge commend
