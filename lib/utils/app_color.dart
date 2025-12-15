@@ -6,4 +6,4 @@ abstract final class AppColor {
   static const Color black = Colors.black;
   static const Color white = Colors.white;
 }
-//edit colors of the app
+//update colors and want to show before editing

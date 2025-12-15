@@ -21,5 +21,3 @@ class MyApp extends StatelessWidget {
   }
 }
 //new command called reverse
-//reverse is undo changes made by specific commit
-// cherry pick command is move specific commit from branch to another
