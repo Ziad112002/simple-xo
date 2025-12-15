@@ -6,3 +6,4 @@ abstract final class AppColor {
   static const Color black = Colors.black;
   static const Color white = Colors.white;
 }
+//no colors edit
