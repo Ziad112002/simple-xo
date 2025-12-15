@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:xo_game/screens/game_board.dart';
 import 'package:xo_game/screens/xo_intro.dart';
-//hello world!
 
 void main() {
   runApp(const MyApp());
@@ -21,7 +20,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-//master test commit
-//
-//
-///
+//master
