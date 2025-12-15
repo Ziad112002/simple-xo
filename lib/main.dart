@@ -21,4 +21,6 @@ class MyApp extends StatelessWidget {
   }
 }
 //new command called reverse
-//reverse is undo changes made by specific commit
+//reverse: is undo changes made by specific commit
+//push: upload your local commits to remote repositry
+//pull: download changes from remote to local repositry 
