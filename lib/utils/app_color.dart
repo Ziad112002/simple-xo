@@ -7,3 +7,4 @@ abstract final class AppColor {
   static const Color white = Colors.white;
 }
 //update blue color
+
