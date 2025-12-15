@@ -12,12 +12,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       routes: {
-        GameBoard.routeName:(context)=>GameBoard(),
-        XoIntro.routeName:(context)=>XoIntro()
+        GameBoard.routeName: (context) => GameBoard(),
+        XoIntro.routeName: (context) => XoIntro(),
       },
       debugShowCheckedModeBanner: false,
       initialRoute: XoIntro.routeName,
     );
   }
 }
-//master
+//new command called reverse
